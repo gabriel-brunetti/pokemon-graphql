@@ -1,10 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Pokemon GraphQL
 
-## Available Scripts
+Projeto desenvolvido como estudo de ReactJS, GraphQL: 
+- Containers
+- GraphQL
+- Componentes
 
-In the project directory, you can run:
+## Acessando o deploy do projeto
 
-### Acessando o deploy do projeto
+Você pode conferir o deploy do projeto clicando [aqui]('https://gabriel-brunetti.github.io/pokemon-graphql/index')
 
-Você pode conferir o deploy do projeto clicando aqui['https://gabriel-brunetti.github.io/pokemon-graphql/index']
+## To Do
+- Adicionar paginação
+- Testar scroll infinito
+
+## Como reproduzir o ambiente de desenvolvimento
+
+1. Após clonar o repositório em sua máquina, instalar as dependências utilizando **npm install** ou **yarn install**
+2. Executar o sistema utilizando **npm start** ou **yarn start** e acessar a porta designada em seu servidor local/localhost.
 
