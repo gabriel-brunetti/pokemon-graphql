@@ -12,6 +12,8 @@ Você pode conferir o deploy do projeto clicando [aqui](https://gabriel-brunetti
 ## To Do
 - Adicionar paginação
 - Testar scroll infinito
+- Página individual para cada pokemon
+- React Router
 
 ## Como reproduzir o ambiente de desenvolvimento
 
