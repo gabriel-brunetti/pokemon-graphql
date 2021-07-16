@@ -7,7 +7,7 @@ Projeto desenvolvido como estudo de ReactJS, GraphQL:
 
 ## Acessando o deploy do projeto
 
-Você pode conferir o deploy do projeto clicando [aqui]('https://gabriel-brunetti.github.io/pokemon-graphql/index')
+Você pode conferir o deploy do projeto clicando [aqui](https://gabriel-brunetti.github.io/pokemon-graphql/)
 
 ## To Do
 - Adicionar paginação
