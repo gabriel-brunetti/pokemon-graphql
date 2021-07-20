@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2c08639b8748f0f5dd92c679b3cbefd",
+    "revision": "11a9568dfd2cb2a695b0556b70550dd2",
     "url": "/pokemon-graphql/index.html"
   },
   {
